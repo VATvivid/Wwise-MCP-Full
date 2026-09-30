@@ -252,7 +252,7 @@ def include_in_soundbank(
             "operation": "add",
             "inclusions": [{
                 "object": include_path,
-                "filter": ["events", "structures"]
+                "filter": ["events", "structures", "media"]
             }]
         }
         
